@@ -1,6 +1,6 @@
 {
   "name": "react-native-pathjs-charts",
-  "version": "0.0.34",
+  "version": "0.0.35",
   "description": "Cross platform React Native charting library based on path-js and react-native-svg",
   "repository": {
     "type": "git",
@@ -28,18 +28,14 @@
   "license": "Apache-2.0",
   "maintainers": [
     {
-      "name": "marzolfb",
-      "email": "marzolfb@gmail.com"
-    },
-    {
-      "name": "katscott",
-      "email": "reineskat@gmail.com"
+      "name": "parun",
+      "email": "parrun.pichaiiwong@gmail.com"
     }
   ],
   "dependencies": {
     "lodash": "^4.12.0",
     "paths-js": "^0.4.5",
-    "react-native-svg": "~5.5.1"
+    "react-native-svg": "9.3.7"
   },
   "devDependencies": {
     "babel-jest": "*",
@@ -47,10 +43,10 @@
     "diff": "^3.1.0",
     "jest": "*",
     "jest-react-native": "*",
-    "react": "16.0.0",
+    "react": "16.6.0-alpha.8af6728",
     "react-dom": "16.0.0",
     "react-native": "0.50.3",
-    "react-test-renderer": "16.0.0"
+    "react-test-renderer": "16.6.0-alpha.8af6728"
   },
   "jest": {
     "preset": "react-native",
